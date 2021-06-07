@@ -1,0 +1,7 @@
+{
+  "name": "InAppWebView",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

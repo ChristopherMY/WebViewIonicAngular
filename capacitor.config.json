@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "InAppWebView",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
